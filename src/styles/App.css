@@ -10,3 +10,15 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.review {
+    border:1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.person-img {
+    width:100px;
+    height: 100px;
+}
