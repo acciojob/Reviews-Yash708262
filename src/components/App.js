@@ -7,7 +7,7 @@ const App = () => {
         <main>
         <section className="Container">
           <h1 id="review-heading">Our Reviews</h1>
-          <Review className="review"/>
+          <Review/>
         </section>
       </main>
     </div>

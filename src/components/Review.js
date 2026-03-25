@@ -55,7 +55,7 @@ const Review = () => {
         setIndex(newIndex);
       };
   return (
-    <div>
+    <div className="review">
       <div style={{ border: "1px solid black", display: "flex" , height:'200px', padding:'10px'}}>
         <img className="person-img" src={ans.image} style={{height:'200px', width:'400px'}}></img>
         <div style={{ padding:'10px'}}>
